@@ -25,7 +25,7 @@ var
 begin
   if Info.ChangeType = NonDeleted then
   begin
-    ShowMessage('Error');
+    ShowMessage('Exception');
   end
   else
   begin
